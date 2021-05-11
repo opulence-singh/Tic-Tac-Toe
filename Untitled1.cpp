@@ -10,7 +10,7 @@ void board() //Display basic board
 {
     system("cls"); //to clear previous screen
     cout << "*******************************************************************************\n";
-    cout << "\t\t Tic Tac Toe by Sidharth Sethi\n";
+    cout << "\t\t Tic Tac Toe by Gagandeep Singh\n";
     cout << "*******************************************************************************\n";
     cout << endl << "\t\t Player 1 is X" << endl << "\t\t Player 2 is O" << endl;
     cout << "\t\t     |     |     \n";
